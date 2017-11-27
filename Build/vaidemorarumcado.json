@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "vaidemorarumcado.data.unityweb",
+"asmCodeUrl": "vaidemorarumcado.asm.code.unityweb",
+"asmMemoryUrl": "vaidemorarumcado.asm.memory.unityweb",
+"asmFrameworkUrl": "vaidemorarumcado.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
